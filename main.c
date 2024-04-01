@@ -4,7 +4,7 @@
 int main()
 {
     unsigned long long int n;
-    scanf("%lld", &n);
-    printf("%lld\n", n);
+    scanf("%llu", &n);
+    printf("%llu", n);
     return 0;
 }
